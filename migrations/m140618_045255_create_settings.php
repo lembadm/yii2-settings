@@ -5,6 +5,8 @@
  * @license MIT http://opensource.org/licenses/MIT
  */
 
+namespace pheme\settings\migrations;
+
 use yii\db\Schema;
 
 /**
